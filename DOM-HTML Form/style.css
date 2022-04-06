@@ -1,0 +1,28 @@
+
+   
+div {
+  margin-bottom: 5px;
+  align-items: center;
+}
+label {
+  display: inline-block;
+  width: 100px;
+  
+  
+}
+.radio {
+  margin-top: -1px;
+  vertical-align: middle; 
+  float:left;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+/* #container{
+  padding: 20px;
+  text-align: center;
+}
+.radio{
+  text-align: center;
+} */
